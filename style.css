@@ -176,4 +176,42 @@ nav li a{
     border-radius: 28px;
     background: #4EC5F7;
 }
+/* section-2 start*/
+.s2-i1,.s2-i2,.s2-i3,.s2-i4{
+
+    width: 280px;
+    height: 348px;
+  }
+ .sec-2-images{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+ }
+ .sec-2-container{
+    margin-top: 60px;
+     text-align: center;
+     /*line-height: 10px;*/
+ }
+ .sec-2-text{
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+        color: #F948B2;
+ }
+ .sec-2-title{
+    
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    color: #534C64;
+ }
+ .sec-2-messege{
+    font-family: Work Sans;
+    font-size: 12px;
+   padding-top: 5px;
+    color: #534C64
+ }
  
